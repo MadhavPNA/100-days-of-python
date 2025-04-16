@@ -172,7 +172,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-/.idea/100-days-of-python.iml
-/day-1/day-1.iml
-/.idea/misc.xml
-/.idea/modules.xml
